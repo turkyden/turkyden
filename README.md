@@ -34,6 +34,13 @@
 
 主要负责该公司协同平台的搭建，包括公文，报销，档案，印章，行政，数据中心，契约锁等模块，人员数据API接口，统一单点登录，统一待办的配置及测试。
 
+### 所获证书
+
+大学英语六级（笔试+口语）
+
+普通话等级证书
+
+
 
 <!--
 **Turkyden/Turkyden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
