@@ -5,11 +5,9 @@
 [![Linkedin](https://img.shields.io/badge/-Alexey%20Khachatryan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)](https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)
 [![Mail](https://img.shields.io/badge/-info@khachatryan.org-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:info@khachatryan.org)
 
-[More about me &rarr;](https://turkyden.netlify.app/)
-
 ## About me
 
-I'm a software development engineer. I like to work with Laravel, NodeJS and Python. I love Linux Kernel based OSs such as Ubuntu and CentOS. I'm open-source development enthusiast.
+I'm a software development engineer. I like to work with Laravel, NodeJS and Python. I love Linux Kernel based OSs such as Ubuntu and CentOS. I'm open-source development enthusiast. [More about me &rarr;](https://turkyden.netlify.app/)
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
