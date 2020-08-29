@@ -13,6 +13,8 @@ I'm a software development engineer. I like to work with Laravel, NodeJS and Pyt
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
++
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 
 **Languages and Tools:** 
 
