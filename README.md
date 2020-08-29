@@ -1,4 +1,18 @@
+# DengJu Deng
+
+[![Github](https://img.shields.io/github/followers/alkhachatryan?label=Follow&style=social)](https://github.com/alkhachatryan)
+[![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=alkhachatryan)](https://github.com/alkhachatryan)
+[![Linkedin](https://img.shields.io/badge/-Alexey%20Khachatryan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)](https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)
+[![Mail](https://img.shields.io/badge/-info@khachatryan.org-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:info@khachatryan.org)
+
 [More about me &rarr;](https://turkyden.netlify.app/)
+
+## About me
+
+I'm a software development engineer. I like to work with Laravel, NodeJS and Python. I love Linux Kernel based OSs such as Ubuntu and CentOS. I'm open-source development enthusiast.
+
+## Stack I work with
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 
 **Languages and Tools:** 
 
@@ -7,6 +21,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+
+Interesting stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Turkyden)](https://github.com/Turkyden)
 
