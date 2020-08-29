@@ -1,4 +1,4 @@
-![More about me &rarr;](https://turkyden.netlify.app/)
+[More about me &rarr;](https://turkyden.netlify.app/)
 
 **Languages and Tools:** 
 
