@@ -1,6 +1,6 @@
 https://turkyden.netlify.app/
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Turkyden)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Turkyden)](https://github.com/Turkyden)
 
 <!--
 
