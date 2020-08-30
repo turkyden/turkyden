@@ -18,6 +18,8 @@ I'm a software development engineer. I like to work with Laravel, NodeJS and Pyt
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 +
 <code><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
++
+<code><img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
 
 **Languages and Tools:** 
 
