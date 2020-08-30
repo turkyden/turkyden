@@ -21,6 +21,8 @@ I'm a software development engineer. I like to work with Laravel, NodeJS and Pyt
 +
 <code><img height="50" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>
 +
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
++
 <code><img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
 
 **Languages and Tools:** 
