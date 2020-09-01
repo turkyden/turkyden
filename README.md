@@ -7,7 +7,7 @@
 
 ## About me
 
-I'm a software development engineer. I like to work with Laravel, NodeJS and Python. I love Linux Kernel based OSs such as Ubuntu and CentOS. I'm open-source development enthusiast. [More about me &rarr;](https://turkyden.netlify.app/)
+I'm a software development engineer. I like to work with NodeJS and Python. I love Linux Kernel based OSs such as Ubuntu and CentOS. I'm open-source development enthusiast. [More about me &rarr;](https://turkyden.netlify.app/)
 
 ## Stack I work with
 
