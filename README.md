@@ -1,8 +1,8 @@
 # DengJu Deng
 
-[![Github](https://img.shields.io/github/followers/alkhachatryan?label=Follow&style=social)](https://github.com/alkhachatryan)
+[![Github](https://img.shields.io/github/followers/Turkyden?label=Follow&style=social)](https://github.com/Turkyden)
 [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=Turkyden)](https://github.com/Turkyden)
-[![Linkedin](https://img.shields.io/badge/-Alexey%20Khachatryan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)](https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)
+[![Linkedin](https://img.shields.io/badge/-Dengju%20Deng-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dengju-deng-8707b7a5/)](https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)
 [![Mail](https://img.shields.io/badge/-wj871287@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:wj871287@gmail.com)
 
 ## About me
