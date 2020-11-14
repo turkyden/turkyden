@@ -33,6 +33,12 @@ I'm a software development engineer. I like to work with React and Typescript. I
     <img height="20" alt="zhihu" src="https://static.zhihu.com/static/favicon.ico">
   </a>
 </code>
+<code>
+  <a href="https://juejin.im/user/1398234519441261" target="_blank">
+    <img height="20" alt="juejin" src="https://b-gold-cdn.xitu.io/favicons/v2/favicon-32x32.png">
+  </a>
+</code>
+
 
 
 <!--
