@@ -30,6 +30,10 @@ I'm a software development engineer. I like to work with NodeJS and React. I lov
 
 <!--
 
+## Interesting stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Turkyden)](https://github.com/Turkyden)
+
 ## 谭雯 · 项目实施工程师
 
 > 你好，我是谭雯，一个具有开发背景的且专注于企业级 Saas 项目的实施工程师。
