@@ -22,10 +22,10 @@ I'm a software development engineer. I like to work with NodeJS and React. I lov
 
 ## Workflow and Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="codepen" src="https://camo.githubusercontent.com/a79c8028a36e9021ee36a97ea7c8077f69d5f1296d48ec593e95cfa6db33e2a5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f636f646570656e2e737667"></code>
+<code><img height="20" alt="dribbble" src="https://camo.githubusercontent.com/ad020ac08fdbf9becdb52a0d5e18ec3eff97c297d8c7ef9f6ff06459e39fa984/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6472696262626c652e737667"></code>
+<code><img height="20" alt="git" src="https://camo.githubusercontent.com/a7628672dbfd8720309680580dbfe8aff1d12a1bb2397b5c36cd10a56e08adf7/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667"></code>
+<code><img height="20" alt="github" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"></code>
 <code><img height="20" alt="chrome" src="https://camo.githubusercontent.com/9f9d124d411068111c0c4707b245a3461c5c1171f7310b802c1be1353c68c93d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6368726f6d652e737667"></code>  
 ## Interesting stats
 
