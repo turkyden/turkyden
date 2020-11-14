@@ -1,4 +1,4 @@
-# DengJu Deng
+## DengJu Deng
 
 [![Github](https://img.shields.io/github/followers/Turkyden?label=Follow&style=social)](https://github.com/Turkyden)
 [![Linkedin](https://img.shields.io/badge/-Dengju%20Deng-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dengju-deng-8707b7a5/)](https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)
@@ -6,7 +6,7 @@
 
 I'm a software development engineer. I like to work with NodeJS and React. I love the user experience design and technology. I'm open-source development enthusiast. [More about me &rarr;](https://turkyden.netlify.app/)
 
-## Stack I work with
+### Stack I work with
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 +
@@ -20,7 +20,7 @@ I'm a software development engineer. I like to work with NodeJS and React. I lov
 +
 <code><img height="50" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>
 
-## Workflow and Tools
+### Workflow and Tools
 
 <code><img height="20" alt="github" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"></code>
 <code><img height="20" alt="codepen" src="https://camo.githubusercontent.com/a79c8028a36e9021ee36a97ea7c8077f69d5f1296d48ec593e95cfa6db33e2a5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f636f646570656e2e737667"></code>
