@@ -26,7 +26,7 @@ I'm a software development engineer. I like to work with NodeJS and React. I lov
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png"></code>  
+<code><img height="20" alt="chrome" src="https://camo.githubusercontent.com/9f9d124d411068111c0c4707b245a3461c5c1171f7310b802c1be1353c68c93d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6368726f6d652e737667"></code>  
 ## Interesting stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Turkyden)](https://github.com/Turkyden)
