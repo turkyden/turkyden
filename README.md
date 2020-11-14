@@ -29,12 +29,12 @@ I'm a software development engineer. I like to work with React and Typescript. I
 <code><img height="20" alt="git" src="https://camo.githubusercontent.com/a7628672dbfd8720309680580dbfe8aff1d12a1bb2397b5c36cd10a56e08adf7/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667"></code>
 <code><img height="20" alt="chrome" src="https://camo.githubusercontent.com/9f9d124d411068111c0c4707b245a3461c5c1171f7310b802c1be1353c68c93d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6368726f6d652e737667"></code>
 <code>
-  <a href="https://www.zhihu.com/people/a-ju-76" target="_blank">
+  <a title="知乎" href="https://www.zhihu.com/people/a-ju-76" target="_blank">
     <img height="20" alt="zhihu" src="https://static.zhihu.com/static/favicon.ico">
   </a>
 </code>
 <code>
-  <a href="https://juejin.im/user/1398234519441261" target="_blank">
+  <a title="掘金" href="https://juejin.im/user/1398234519441261" target="_blank">
     <img height="20" alt="juejin" src="https://b-gold-cdn.xitu.io/favicons/v2/favicon-32x32.png">
   </a>
 </code>
