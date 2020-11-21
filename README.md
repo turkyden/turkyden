@@ -37,6 +37,11 @@ I'm a software development engineer. I like to work with React and Typescript. I
   </a>
 </code>
 <code>
+  <a title="思否" href="https://segmentfault.com/u/turkyden" target="_blank">
+    <img height="20" alt="segmentfault" src="https://cdn.segmentfault.com/v-5fb77f84/global/img/favicon.ico">
+  </a>
+</code>
+<code>
   <a title="codesandbox" href="https://codesandbox.io/u/Turkyden" target="_blank">
     <img height="20" alt="juejin" src="https://codesandbox.io/favicon.ico">
   </a>
