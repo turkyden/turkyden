@@ -40,6 +40,11 @@ I'm a software development engineer. I like to work with React and Typescript. I
   </a>
 </code>
 <code>
+  <a title="stackoverflow" href="https://stackoverflow.com/users/9764081/turkyden" target="_blank">
+    <img height="20" alt="segmentfault" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196">
+  </a>
+</code>
+<code>
   <a title="codesandbox" href="https://codesandbox.io/u/Turkyden" target="_blank">
     <img height="20" alt="juejin" src="https://codesandbox.io/favicon.ico">
   </a>
