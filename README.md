@@ -57,10 +57,9 @@ I'm a software development engineer. I like to work with React and Typescript. I
 
 
 
-<!--
+
 
 ## Interesting stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Turkyden)](https://github.com/Turkyden)
 
--->
