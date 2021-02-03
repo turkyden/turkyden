@@ -3,7 +3,9 @@
 [![Linkedin](https://img.shields.io/badge/-Dengju%20Deng-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dengju-deng-8707b7a5/)](https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)
 [![Mail](https://img.shields.io/badge/-wj871287@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:wj871287@gmail.com)
 
-I'm a web development engineer interested in information visualization and HCI. I'm open-source development enthusiast. [More about me &rarr;](https://github.com/Turkyden)
+I'm a web development engineer interested in information visualization and HCI. I'm open-source development enthusiast.
+
+[More about me &rarr;](https://github.com/Turkyden)
 
 ### Stack I work with
 
