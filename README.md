@@ -1,7 +1,7 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/alibaba/hooks?style=social)](https://github.com/Turkyden)
 [![Github](https://img.shields.io/github/followers/Turkyden?label=Follow&style=social)](https://github.com/Turkyden)
-[![Wechat](https://img.shields.io/badge/-15026579658-07c160?style=flat-square&logo=Wechat&logoColor=white&link=https://www.linkedin.com/in/dengju-deng-8707b7a5/)](https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)
 [![Mail](https://img.shields.io/badge/-wj871287@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:wj871287@gmail.com)
+[![Wechat](https://img.shields.io/badge/-15026579658-07c160?style=flat-square&logo=Wechat&logoColor=white&link=https://www.linkedin.com/in/dengju-deng-8707b7a5/)](https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)
 
 Hi, I'm Dengju Deng, a passionate self-taught Web Developer(UED Designer), interested in information visualization and HCI. 
 
