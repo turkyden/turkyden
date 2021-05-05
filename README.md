@@ -59,7 +59,7 @@ Stack I work with
 
 <summary>Other</summary>
 
-dsds
+<br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Turkyden)](https://github.com/Turkyden)
 
