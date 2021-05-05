@@ -57,7 +57,9 @@ Stack I work with
 
 <details>
 
-<summary>💖 Other</summary>
+<summary>Other</summary>
+
+dsds
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Turkyden)](https://github.com/Turkyden)
 
