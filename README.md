@@ -55,10 +55,10 @@ Stack I work with
 +
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 
-<!--
+<details>
 
-## Interesting stats
+<summary>💖 Other</summary>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Turkyden)](https://github.com/Turkyden)
 
--->
+</details>
