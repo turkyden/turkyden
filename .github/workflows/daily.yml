@@ -20,5 +20,5 @@ jobs:
           git config --global user.name "Turkyden"
           git pull
           git add -A
-          git commit -m "🤖 Auto Update Daily Quotations" || exit 0
+          git commit -m "🤖 Auto Update Daily Motto" || exit 0
           git push

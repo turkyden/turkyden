@@ -64,3 +64,9 @@ Stack I work with
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Turkyden)](https://github.com/Turkyden)
 
 </details>
+
+<!-- 
+2021-05-09
+
+> **代码是写给人看的，然后顺便给机器运行。**  
+-->

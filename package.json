@@ -1,0 +1,23 @@
+{
+  "name": "turkyden",
+  "version": "1.0.0",
+  "description": "[![GitHub User's stars](https://img.shields.io/github/stars/alibaba/hooks?style=social)](https://github.com/Turkyden)\r [![Github](https://img.shields.io/github/followers/Turkyden?label=Follow&style=social)](https://github.com/Turkyden)\r [![Mail](https://img.shields.io/badge/-wj871287@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:wj871287@gmail.com)\r [![Wechat](https://img.shields.io/badge/-15026579658-07c160?style=flat-square&logo=Wechat&logoColor=white&link=https://www.linkedin.com/in/dengju-deng-8707b7a5/)](https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)",
+  "main": "daily.js",
+  "scripts": {
+    "start": "node daily.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Turkyden/Turkyden.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Turkyden/Turkyden/issues"
+  },
+  "homepage": "https://github.com/Turkyden/Turkyden#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

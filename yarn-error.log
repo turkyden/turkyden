@@ -1,0 +1,53 @@
+Arguments: 
+  D:\nodejs\node.exe C:\Users\ddj\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add lodash/sample
+
+PATH: 
+  C:\Python39\Scripts\;C:\Python39\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\nodejs\;C:\ProgramData\chocolatey\bin;D:\Git\cmd;C:\Users\ddj\AppData\Local\Microsoft\WindowsApps;C:\Users\ddj\AppData\Roaming\npm;D:\Microsoft VS Code\bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.15.5
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://github.com/lodash/sample: ESOCKETTIMEDOUT
+      at ClientRequest.<anonymous> (C:\Users\ddj\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141289:19)
+      at Object.onceWrapper (events.js:421:28)
+      at ClientRequest.emit (events.js:315:20)
+      at TLSSocket.emitRequestTimeout (_http_client.js:784:9)
+      at Object.onceWrapper (events.js:421:28)
+      at TLSSocket.emit (events.js:327:22)
+      at TLSSocket.Socket._onTimeout (net.js:483:8)
+      at listOnTimeout (internal/timers.js:554:17)
+      at processTimers (internal/timers.js:497:7)
+
+npm manifest: 
+  {
+    "name": "turkyden",
+    "version": "1.0.0",
+    "description": "[![GitHub User's stars](https://img.shields.io/github/stars/alibaba/hooks?style=social)](https://github.com/Turkyden)\r [![Github](https://img.shields.io/github/followers/Turkyden?label=Follow&style=social)](https://github.com/Turkyden)\r [![Mail](https://img.shields.io/badge/-wj871287@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:wj871287@gmail.com)\r [![Wechat](https://img.shields.io/badge/-15026579658-07c160?style=flat-square&logo=Wechat&logoColor=white&link=https://www.linkedin.com/in/dengju-deng-8707b7a5/)](https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)",
+    "main": "daily.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Turkyden/Turkyden.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Turkyden/Turkyden/issues"
+    },
+    "homepage": "https://github.com/Turkyden/Turkyden#readme"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
