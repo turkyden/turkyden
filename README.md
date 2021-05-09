@@ -68,5 +68,5 @@ Stack I work with
 <!-- 
 2021-05-09
 
-> **代码是写给人看的，然后顺便给机器运行。**  
+> Methods that are never called should be discarded. Keeping dead code around is wasteful. Don’t be afraid to delete the function. Remember, your source code control system still remembers it.   
 -->
