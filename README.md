@@ -66,7 +66,7 @@ Stack I work with
 </details>
 
 <!-- 
-2021-05-10
+2021-05-11
 
-> **代码是写给人看的，然后顺便给机器运行。**  
+> There is no such thing as a perfect program, but that doesn't discourage us, because programming is a constant quest for perfection.   
 -->
