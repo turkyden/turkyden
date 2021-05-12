@@ -66,7 +66,7 @@ Stack I work with
 </details>
 
 <!-- 
-2021-05-11
+2021-05-12
 
-> There is no such thing as a perfect program, but that doesn't discourage us, because programming is a constant quest for perfection.   
+> The code is written for people to read, and then for machines to run.     
 -->
