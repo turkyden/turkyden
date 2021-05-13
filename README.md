@@ -66,7 +66,7 @@ Stack I work with
 </details>
 
 <!-- 
-2021-05-12
+2021-05-13
 
-> The code is written for people to read, and then for machines to run.     
+> — *Code Clean*
 -->
