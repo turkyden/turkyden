@@ -66,7 +66,7 @@ Stack I work with
 </details>
 
 <!-- 
-2021-05-14
+2021-05-15
 
-> **永不被调用的方法应该丢弃。保留死代码纯属浪费。别害怕删除函数。记住，源代码控制系统还会记得它。**   
+> The code is written for people to read, and then for machines to run.     
 -->
