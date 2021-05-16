@@ -66,7 +66,7 @@ Stack I work with
 </details>
 
 <!-- 
-2021-05-15
+2021-05-16
 
-> The code is written for people to read, and then for machines to run.     
+> **过早的优化是万恶之源。**  
 -->
