@@ -66,7 +66,7 @@ Stack I work with
 </details>
 
 <!-- 
-2021-05-16
+2021-05-17
 
-> **过早的优化是万恶之源。**  
+> Methods that are never called should be discarded. Keeping dead code around is wasteful. Don’t be afraid to delete the function. Remember, your source code control system still remembers it.   
 -->
