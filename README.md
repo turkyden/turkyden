@@ -66,7 +66,7 @@ Stack I work with
 </details>
 
 <!-- 
-2021-05-17
+2021-05-18
 
-> Methods that are never called should be discarded. Keeping dead code around is wasteful. Don’t be afraid to delete the function. Remember, your source code control system still remembers it.   
+> — *Brian W. Kernighan and P. J. Plaugher*
 -->
