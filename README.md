@@ -66,7 +66,7 @@ Stack I work with
 </details>
 
 <!-- 
-2021-05-18
+2021-05-19
 
-> — *Brian W. Kernighan and P. J. Plaugher*
+> **过早的优化是万恶之源。**  
 -->
