@@ -47,8 +47,6 @@ Stack I work with
 +
 <code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 +
-<code><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
-+
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
 +
 <code><img height="50" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>
