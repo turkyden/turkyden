@@ -64,7 +64,7 @@ Stack I work with
 </details>
 
 <!-- 
-2021-05-23
+2021-05-24
 
-> — *陶杰《杀鹌鹑的少女》*
+> Don't comment bad code; you should rewrite it.   
 -->
