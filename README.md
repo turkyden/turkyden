@@ -72,7 +72,7 @@ Stack I work with
 </details>
 
 <!-- 
-2021-05-24
+2021-05-25
 
-> Don't comment bad code; you should rewrite it.   
+> Methods that are never called should be discarded. Keeping dead code around is wasteful. Don’t be afraid to delete the function. Remember, your source code control system still remembers it.   
 -->
