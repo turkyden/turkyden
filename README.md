@@ -66,7 +66,7 @@ Stack I work with
 | [react-darkreader](https://github.com/Turkyden/react-darkreader) | 🌓 A React Hook for adding a dark / night mode to your site. |
 | [watermark-pro](https://github.com/Turkyden/watermark-pro) | 💦 保护您的敏感信息，一款所见即所得的证件加水印工具 |
 | [tiny-procode](https://github.com/Turkyden/tiny-procode) | ⚡ A procode solution for SPA (Single Page Application) |
-
+| [wechat-link](https://github.com/Turkyden/wechat-link) | 🥕 微信公众号无法外链怎么办？一行代码搞定长按识别二维码 |
   
   
 </details>
