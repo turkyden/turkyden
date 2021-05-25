@@ -61,7 +61,7 @@ Stack I work with
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Turkyden)](https://github.com/Turkyden)
   
-| 作品 | 简介 |
+| 代表作 | 简介 |
 | -------- | -------- |
 | [react-darkreader](https://github.com/Turkyden/react-darkreader) | 🌓 A React Hook for adding a dark / night mode to your site. |
 | [watermark-pro](https://github.com/Turkyden/watermark-pro) | 💦 保护您的敏感信息，一款所见即所得的证件加水印工具 |
