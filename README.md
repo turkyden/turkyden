@@ -70,7 +70,7 @@ Stack I work with
 </details>
 
 <!-- 
-2021-05-30
+2021-05-31
 
-> — *gdut 佚名*
+> — *Brian W. Kernighan and P. J. Plaugher*
 -->
