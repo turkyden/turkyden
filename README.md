@@ -5,7 +5,7 @@
 
 Hi, I'm Dengju Deng, a passionate self-taught Web Developer(UED Designer), interested in information visualization and HCI. 
 
-I'm open-source development enthusiast. [More about me &rarr;](https://github.com/Turkyden)
+I'm open-source development enthusiast.
 
 <code><img height="20" alt="github" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"></code>
 <code><img height="20" alt="dribbble" src="https://camo.githubusercontent.com/ad020ac08fdbf9becdb52a0d5e18ec3eff97c297d8c7ef9f6ff06459e39fa984/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6472696262626c652e737667"></code>
@@ -51,7 +51,7 @@ Stack I work with
 
 <details>
 
-<summary>Other</summary>
+<summary>More about me &rarr;</summary>
 
 <br/>
 
