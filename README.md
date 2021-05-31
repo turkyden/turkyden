@@ -41,7 +41,7 @@ I'm open-source development enthusiast.
   </a>
 </code>
 
-Stack I work with
+Workflow and Stack I work with
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
@@ -51,7 +51,7 @@ Stack I work with
 
 <details>
 
-<summary>More about me &rarr;</summary>
+<summary>More about me</summary>
 
 <br/>
 
