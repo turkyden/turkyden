@@ -70,7 +70,7 @@ Workflow and Stack I work with:
 </details>
 
 <!-- 
-2021-05-31
+2021-06-01
 
-> — *Brian W. Kernighan and P. J. Plaugher*
+> Don't comment bad code; you should rewrite it.   
 -->
