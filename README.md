@@ -65,7 +65,7 @@ Workflow and Stack I work with:
 | [wechat-link](https://github.com/Turkyden/wechat-link) | 🥕 微信公众号无法外链怎么办？一行代码搞定长按识别二维码 |
 | [印记中文·核心成员](https://github.com/docschina) | 🀄 深入挖掘国外前端新领域，为中国 Web 前端开发人员提供优质文档！ |
 
-正在通过 https://web.dev/learn 学习前端技术。
+正在通过 https://web.dev/learn 与 [IDVX LAB](https://space.bilibili.com/1128138976?spm_id_from=333.788.b_765f7570696e666f.2) 学习前端技术。
   
 https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-8a60-7b2967906972.mp4
   
