@@ -67,9 +67,9 @@ Workflow and Stack I work with:
 
 正在通过 https://web.dev/learn 学习前端技术。
   
-</details>
-
 https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-8a60-7b2967906972.mp4
+  
+</details>
 
 <!-- 
 2021-06-02
