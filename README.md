@@ -70,7 +70,7 @@ Workflow and Stack I work with:
 </details>
 
 <!-- 
-2021-06-01
+2021-06-02
 
-> Don't comment bad code; you should rewrite it.   
+> — *陶杰《杀鹌鹑的少女》*
 -->
