@@ -49,6 +49,8 @@ Workflow and Stack I work with:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>
 
+https://user-images.githubusercontent.com/24560160/120429703-73397700-c3a8-11eb-974c-e91f19f68358.mp4
+
 <details>
 
 <summary>More about me</summary>
