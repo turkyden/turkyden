@@ -63,6 +63,7 @@ Workflow and Stack I work with:
 | [watermark-pro](https://github.com/Turkyden/watermark-pro) | 💦 保护您的敏感信息，一款所见即所得的证件加水印工具 |
 | [tiny-procode](https://github.com/Turkyden/tiny-procode) | ⚡ A procode solution for SPA (Single Page Application) |
 | [wechat-link](https://github.com/Turkyden/wechat-link) | 🥕 微信公众号无法外链怎么办？一行代码搞定长按识别二维码 |
+| [handsome-elements](https://github.com/Turkyden/handsome-elements) | 💠 A portal elements for application dashboad |
 | [印记中文·核心成员](https://github.com/docschina) | 🀄 深入挖掘国外前端新领域，为中国 Web 前端开发人员提供优质文档！ |
 
 正在通过 https://web.dev/learn 与 [IDVX LAB](https://space.bilibili.com/1128138976?spm_id_from=333.788.b_765f7570696e666f.2) 学习前端技术。
