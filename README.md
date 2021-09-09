@@ -73,7 +73,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2021-09-08
+2021-09-09
 
-> The code is written for people to read, and then for machines to run.     
+> **代码是写给人看的，然后顺便给机器运行。**  
 -->
