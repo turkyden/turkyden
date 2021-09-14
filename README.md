@@ -18,7 +18,6 @@ I'm open-source development enthusiast.
 [![dribbble](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/dribbble.png)](https://dribbble.com/turkyden)&nbsp;&nbsp;
 
 <!-- Workflow and Stack I work with:  -- !>
-
 <!-- ![nestjs](https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg)&nbsp;&nbsp; -- !>
 <!-- ![typescriptlang](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg)&nbsp;&nbsp; -- !>
 <!-- ![reactjs](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)&nbsp;&nbsp; -- !>
