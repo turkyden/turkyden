@@ -17,7 +17,7 @@ I'm open-source development enthusiast.
 </code>
 <code>
   <a title="掘金" href="https://juejin.im/user/1398234519441261" target="_blank">
-    <img height="20" alt="juejin" src="https://b-gold-cdn.xitu.io/favicons/v2/favicon-32x32.png">
+    <img height="20" alt="juejin" src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web//static/favicons/favicon-32x32.png">
   </a>
 </code>
 <code>
