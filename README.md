@@ -17,7 +17,7 @@ I'm open-source development enthusiast.
 [![codesandbox](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/codesandbox.png)](https://codesandbox.io/u/turkyden)&nbsp;&nbsp;
 [![dribbble](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/dribbble.png)](https://dribbble.com/turkyden)&nbsp;&nbsp;
 
-<!-- 
+<! -- 
 Workflow and Stack I work with: 
 
 ![nestjs](https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg)&nbsp;&nbsp;
@@ -25,7 +25,7 @@ Workflow and Stack I work with:
 ![reactjs](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)&nbsp;&nbsp;
 ![tailwindcss](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg)&nbsp;&nbsp;
 ![electronjs](https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg)&nbsp;&nbsp; 
- --!>
+ -- !>
 
 
 <details>
