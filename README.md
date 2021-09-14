@@ -19,11 +19,11 @@ I'm open-source development enthusiast.
 
 Workflow and Stack I work with: 
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>
+![nestjs](https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg")&nbsp;&nbsp;
+![typescriptlang](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg")&nbsp;&nbsp;
+![reactjs](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg")&nbsp;&nbsp;
+![tailwindcss](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg")&nbsp;&nbsp;
+![electronjs](https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg")&nbsp;&nbsp;
 
 <details>
 
