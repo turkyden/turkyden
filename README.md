@@ -10,7 +10,7 @@ I'm open-source development enthusiast.
 [![github](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/github.png)](https://github.com/turkyden)&nbsp;&nbsp;
 [![zhihu](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/zhihu.png)](https://www.zhihu.com/people/a-ju-76)&nbsp;&nbsp;
 [![segmentfault](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/segmentfault.png)](https://segmentfault.com/u/turkyden)&nbsp;&nbsp;
-[![juejin](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/juejin.png)](https://juejin.im/user/1398234519441261)&nbsp;&nbsp;
+[![juejin](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/juejin.png)](https://juejin.im/user/1099167357484327)&nbsp;&nbsp;
 [![yuque](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/yuque.png)](https://www.yuque.com/turkyden)&nbsp;&nbsp;
 [![stackoverflow](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/stackoverflow.png)](https://stackoverflow.com/users/9764081/turkyden)&nbsp;&nbsp;
 [![codepen](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/codepen.png)](https://codepen.io/turkyden)&nbsp;&nbsp;
