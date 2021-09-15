@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2021-09-14
+2021-09-15
 
-> **过早的优化是万恶之源。**  
+> The code is written for people to read, and then for machines to run.     
 -->
