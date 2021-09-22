@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2021-09-21
+2021-09-22
 
-> There is no such thing as a perfect program, but that doesn't discourage us, because programming is a constant quest for perfection.   
+> Methods that are never called should be discarded. Keeping dead code around is wasteful. Don’t be afraid to delete the function. Remember, your source code control system still remembers it.   
 -->
