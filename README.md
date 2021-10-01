@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2021-09-30
+2021-10-01
 
-> — *gdut 佚名*
+> There is no such thing as a perfect program, but that doesn't discourage us, because programming is a constant quest for perfection.   
 -->
