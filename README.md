@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2021-10-08
+2021-10-09
 
-> **不要为糟糕的代码写注释，你应该重写它们。**   
+> Don't comment bad code; you should rewrite it.   
 -->
