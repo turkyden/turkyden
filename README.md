@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2021-10-29
+2021-10-30
 
-> — *灵魂一问*  
+> **不要为糟糕的代码写注释，你应该重写它们。**   
 -->
