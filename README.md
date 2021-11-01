@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2021-10-31
+2021-11-01
 
-> The code is written for people to read, and then for machines to run.     
+> **你的方案底层逻辑是什么？顶层设计在哪里？最终交付价值是什么？过程的抓手在哪里？如何保证结果的闭环？你比别人的方案亮点在哪？优势在哪？我没有看到你的沉淀和思考，你有形成自己的方法论吗？你得让别人清楚，凭什么客户选的方案是你的，换别人不一样吗？**  
 -->
