@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2022-07-27
+2022-07-28
 
-> — *Donald Knuth 《计算机编程艺术》*  
+> **代码是写给人看的，然后顺便给机器运行。**  
 -->
