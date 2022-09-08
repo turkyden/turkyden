@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2022-09-07
+2022-09-08
 
-> **过早的优化是万恶之源。**  
+> There is no such thing as a perfect program, but that doesn't discourage us, because programming is a constant quest for perfection.   
 -->
