@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2022-09-22
+2022-09-23
 
-> — *陶杰《杀鹌鹑的少女》*
+> Premature optimization is the root of all evil  
 -->
