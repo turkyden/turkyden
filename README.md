@@ -17,13 +17,13 @@ I'm open-source development enthusiast.
 [![codesandbox](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/codesandbox.png)](https://codesandbox.io/u/turkyden)&nbsp;&nbsp;
 [![dribbble](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/dribbble.png)](https://dribbble.com/turkyden)&nbsp;&nbsp;
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Turkyden)](https://github.com/Turkyden)
-
 <details>
 
 <summary>More about me</summary>
 
 <br/>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Turkyden)](https://github.com/Turkyden)
 
 | 代表作 | 简介 |
 | -------- | -------- |
