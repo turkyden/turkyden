@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2022-12-28
+2022-12-29
 
-> — *Brian W. Kernighan and P. J. Plaugher*
+> **世界上并没有完美的程序，但我们并不因此而沮丧，因为写程序本来就是一个不断追求完美的过程。**   
 -->
