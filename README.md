@@ -3,7 +3,7 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/Turkyden?style=social)](https://github.com/Turkyden)
 [![Github](https://img.shields.io/github/followers/Turkyden?label=Follow&style=social)](https://github.com/Turkyden)
 
-Hi, I'm Dengju Deng, A passionate self-taught UI Developer & Designer, interested in information visualization and HCI. 
+Hi, i'm Dengju Deng, a passionate self-taught UI Developer & Designer, interested in information visualization and HCI. 
 
 I'm open-source development enthusiast.
 
