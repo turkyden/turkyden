@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2023-03-09
+2023-03-10
 
-> **过早的优化是万恶之源。**  
+> Don't comment bad code; you should rewrite it.   
 -->
