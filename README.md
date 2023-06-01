@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2023-05-31
+2023-06-01
 
-> Don't comment bad code; you should rewrite it.   
+> There is no such thing as a perfect program, but that doesn't discourage us, because programming is a constant quest for perfection.   
 -->
