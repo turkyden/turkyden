@@ -7,6 +7,7 @@ Hi, i'm Dengju Deng, a passionate self-taught UI Developer & Designer, intereste
 
 I'm open-source development enthusiast.
 
+<!-- 
 [![github](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/github.png)](https://github.com/turkyden)&nbsp;&nbsp;
 [![zhihu](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/zhihu.png)](https://www.zhihu.com/people/a-ju-76)&nbsp;&nbsp;
 [![segmentfault](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/segmentfault.png)](https://segmentfault.com/u/turkyden)&nbsp;&nbsp;
@@ -15,7 +16,7 @@ I'm open-source development enthusiast.
 [![stackoverflow](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/stackoverflow.png)](https://stackoverflow.com/users/9764081/turkyden)&nbsp;&nbsp;
 [![codepen](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/codepen.png)](https://codepen.io/turkyden)&nbsp;&nbsp;
 [![codesandbox](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/codesandbox.png)](https://codesandbox.io/u/turkyden)&nbsp;&nbsp;
-[![dribbble](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/dribbble.png)](https://dribbble.com/turkyden)&nbsp;&nbsp;
+[![dribbble](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/dribbble.png)](https://dribbble.com/turkyden)&nbsp;&nbsp; -->
 
 <img width="200" src="https://user-images.githubusercontent.com/24560160/230781326-de84d919-1410-4b8a-ad81-3b0f6ffbe7d2.png">
 
