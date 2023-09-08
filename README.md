@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2023-09-07
+2023-09-08
 
-> — *gdut 佚名*
+> Don't comment bad code; you should rewrite it.   
 -->
