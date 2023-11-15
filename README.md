@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2023-11-14
+2023-11-15
 
-> — *陶杰《杀鹌鹑的少女》*
+> There is no such thing as a perfect program, but that doesn't discourage us, because programming is a constant quest for perfection.   
 -->
