@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2024-04-21
+2024-04-22
 
-> — *Code Clean*
+> **代码是写给人看的，然后顺便给机器运行。**  
 -->
