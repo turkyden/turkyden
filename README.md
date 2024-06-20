@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2024-06-19
+2024-06-20
 
-> — *gdut 佚名*
+> **代码是写给人看的，然后顺便给机器运行。**  
 -->
