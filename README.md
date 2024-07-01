@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2024-06-30
+2024-07-01
 
-> — *Brian W. Kernighan and P. J. Plaugher*
+> — *Donald Knuth 《计算机编程艺术》*  
 -->
