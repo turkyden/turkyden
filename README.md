@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2024-07-08
+2024-07-09
 
-> **过早的优化是万恶之源。**  
+> — *Brian W. Kernighan and P. J. Plaugher*
 -->
