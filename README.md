@@ -18,7 +18,7 @@ I'm open-source development enthusiast.
 [![codesandbox](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/codesandbox.png)](https://codesandbox.io/u/turkyden)&nbsp;&nbsp;
 [![dribbble](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/dribbble.png)](https://dribbble.com/turkyden)&nbsp;&nbsp; -->
 
-<img width="300" alt="微信公众号" src="https://user-images.githubusercontent.com/24560160/194598238-02951753-7d7e-4768-8db6-672ffc080aeb.png](https://github.com/user-attachments/assets/58fce8cf-96bd-4628-be3e-f979bd2903e1)">
+<img width="300" alt="微信公众号" src="https://github.com/user-attachments/assets/58fce8cf-96bd-4628-be3e-f979bd2903e1">
 
 <!-- <img width="300" src="https://user-images.githubusercontent.com/24560160/194598238-02951753-7d7e-4768-8db6-672ffc080aeb.png"> -->
 
