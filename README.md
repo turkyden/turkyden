@@ -20,7 +20,7 @@ I'm open-source development enthusiast.
 
 <img width="300" alt="微信公众号" src="https://github.com/user-attachments/assets/58fce8cf-96bd-4628-be3e-f979bd2903e1">
 
-![XNt2CERLzVCZcvTjR1eRb3zaATI](https://github.com/user-attachments/assets/6bf02593-b2c0-4308-a3a2-8574c5857924)
+<!-- ![XNt2CERLzVCZcvTjR1eRb3zaATI](https://github.com/user-attachments/assets/6bf02593-b2c0-4308-a3a2-8574c5857924) -->
 
 <!-- <img width="300" src="https://user-images.githubusercontent.com/24560160/194598238-02951753-7d7e-4768-8db6-672ffc080aeb.png"> -->
 
