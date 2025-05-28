@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2025-05-27
+2025-05-28
 
-> — *Brian W. Kernighan and P. J. Plaugher*
+> The code is written for people to read, and then for machines to run.     
 -->
