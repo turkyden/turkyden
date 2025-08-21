@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2025-08-20
+2025-08-21
 
-> — *灵魂一问*  
+> — *Brian W. Kernighan and P. J. Plaugher*
 -->
