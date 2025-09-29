@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2025-09-28
+2025-09-29
 
-> — *Brian W. Kernighan and P. J. Plaugher*
+> — *陶杰《杀鹌鹑的少女》*
 -->
