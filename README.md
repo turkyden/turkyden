@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2025-10-14
+2025-10-15
 
-> There is no such thing as a perfect program, but that doesn't discourage us, because programming is a constant quest for perfection.   
+> — *Donald Knuth 《计算机编程艺术》*  
 -->
