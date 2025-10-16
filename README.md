@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2025-10-15
+2025-10-16
 
-> — *Donald Knuth 《计算机编程艺术》*  
+> **过早的优化是万恶之源。**  
 -->
