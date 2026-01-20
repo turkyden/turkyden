@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/24560160/120431173-b5fc4e80-c3aa-11eb-
 </details>
 
 <!-- 
-2026-01-19
+2026-01-20
 
-> — *gdut 佚名*
+> — *Donald Knuth 《计算机编程艺术》*  
 -->
